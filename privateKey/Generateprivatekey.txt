@@ -1,0 +1,10 @@
+Prerequired:
+	1. nodejs
+	2. go
+	
+	additional packages
+		$ sudo npm install ethereumjs-wallet
+		$ sudo npm install ethereumjs-util
+
+Run the shell script
+$ sh privateKey.sh 
