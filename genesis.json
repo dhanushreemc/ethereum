@@ -1,4 +1,5 @@
 {
+   "difficulty": "400",
    "config": {
       "chainId": 1994,
       "homesteadBlock": 0,
@@ -6,7 +7,6 @@
       "eip158Block": 0,
       "byzantiumBlock": 0
    },
-   "difficulty": "400",
    "gasLimit": "2000000",
    "alloc": {
       "64129f3d18bc3515a94151e82532eb0bb2db3792": { 
